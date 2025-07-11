@@ -31,7 +31,9 @@ User-defined http routes are defined in the `convex/router.ts` file. We split th
 
 
 
-#THIS IS A SCREENSHOT OF EXAMPLE OF WEBSITE
+
+
+##THIS IS A SCREENSHOT OF EXAMPLE OF WEBSITE
 
 ![img alt](https://github.com/codsahil/school-review-dashboard/blob/main/Screenshot-%203.png?raw=true)
 
